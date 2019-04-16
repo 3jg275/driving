@@ -12,3 +12,5 @@ elif country == 'us':
         print('Able to get license')
     else:
         print('Not yet')
+else:
+    print('Taiwan/US only')
